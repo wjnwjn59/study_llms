@@ -1,0 +1,7 @@
+bentoml 
+openllm
+transformers 
+torch
+langchain
+pydantic
+gradio
